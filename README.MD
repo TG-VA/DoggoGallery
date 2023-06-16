@@ -2,7 +2,7 @@
 
 > Desktop version
 
-![DesktopVideo]("https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif")
+[![https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true")](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true")
 
 > Mobile version
 
@@ -82,7 +82,7 @@ The above code demonstrates how to make HTTP requests to a dog image API, handle
 
 > Versión de Escritorio
 
-![DesktopVideo]("assets\doggDesktop.gif")
+[![https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true")](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif?raw=true")
 
 > Versión de Móvil
 
