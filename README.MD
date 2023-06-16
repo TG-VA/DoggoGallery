@@ -2,11 +2,11 @@
 
 > Desktop version
 
-![DesktopVideo](assets\doggDesktop.gif)
+![DesktopVideo]("assets\doggDesktop.gif")
 
 > Mobile version
 
-![MobileVideo](assets\doggMobile.gif)
+![MobileVideo]("assets\doggMobile.gif")
 
 
 ### 📄 Content
@@ -82,11 +82,11 @@ The above code demonstrates how to make HTTP requests to a dog image API, handle
 
 > Versión de Escritorio
 
-![DesktopVideo](assets\doggDesktop.gif)
+![DesktopVideo]("assets\doggDesktop.gif")
 
 > Versión de Móvil
 
-![MobileVideo](assets\doggMobile.gif)
+![MobileVideo]("assets\doggMobile.gif")
 
 ### 📄 Introducción
 
