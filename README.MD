@@ -6,7 +6,7 @@
 
 > Mobile version
 
-![MobileVideo]("assets\doggMobile.gif")
+[![https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true")](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true")
 
 
 ### 📄 Content
@@ -86,7 +86,7 @@ The above code demonstrates how to make HTTP requests to a dog image API, handle
 
 > Versión de Móvil
 
-![MobileVideo]("assets\doggMobile.gif")
+[![https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true")](https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true "https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggMobile.gif?raw=true")
 
 ### 📄 Introducción
 
