@@ -2,7 +2,7 @@
 
 > Desktop version
 
-[![DesktopVideo]("assets\doggDesktop.gif")](assets\doggDesktop.gif"assets\doggDesktop.gif")
+![DesktopVideo]("https://github.com/TG-VA/DoggoGallery/blob/main/assets/doggDesktop.gif")
 
 > Mobile version
 
